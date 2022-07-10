@@ -26,8 +26,10 @@ List the ready features here:
 - User adds books into Shopping Cart to checkout with thier email.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-
+![Admin Page](Admin.JPG)
+![Bookstore](Bookstore.JPG)
+![Shopping Cart](ShoppingCart.JPG)
+![Admin](Admin.JPG)
 
 ## Usage
 How does one go about using it?
